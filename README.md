@@ -97,3 +97,10 @@ By: n0mercy
 
 GitHub: https://github.com/anujin6969
 
+## install
+git clone https://github.com/anujin6969/HUBADEF.git
+cd HUBADEF
+pip install -r requirements.txt
+python3 hubadef.py
+
+
