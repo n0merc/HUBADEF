@@ -83,6 +83,7 @@ Example report:
 pgsql
 Copy code
 SOC_target_YYYYMMDD_HHMMSS.json
+
 ⚠️ Disclaimer
 This framework is intended for defensive security testing and educational purposes only.
 
@@ -97,7 +98,8 @@ By: n0mercy
 
 GitHub: https://github.com/anujin6969
 
-## install
+install
+
 git clone https://github.com/anujin6969/HUBADEF.git
 cd HUBADEF
 pip install -r requirements.txt
