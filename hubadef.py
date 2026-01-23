@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # HUBADEF v7.1 – Stealth Blue Team Framework
-# Owner: husln | By: n0mercy | GitHub: anujin6969
+# Owner: husln | By: n0mercy | GitHub: n0merc
 
 import sys, time, json, socket, ssl, signal, os, subprocess
 from datetime import datetime
@@ -190,7 +190,7 @@ def more_tools():
 # ===================== ABOUT =====================
 def about():
     console.print(Panel.fit(
-        "HUBADEF v7.1\n\nowner : husln\nby : n0mercy\ngit : anujin6969\n\nstealth blue team framework",
+        "HUBADEF v7.1\n\nowner : husln\nby : n0mercy\ngit : n0merc\n\nstealth blue team framework",
         border_style="red"
     ))
 
