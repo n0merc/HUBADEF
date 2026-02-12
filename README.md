@@ -35,10 +35,10 @@ The tool focuses on **realistic, safe, and passive checks** without triggering a
 ##  Integrated Tools
 
 - **Terminant OSINT**
-  - https://github.com/anujin6969/terminant-osint
+  - https://github.com/n0merc/terminant-osint
 
 - **AllChanger (IP / Network isolation)**
-  - https://github.com/anujin6969/allchanger
+  - https://github.com/n0merc/allchanger
 
 These tools are automatically cloned and launched from the menu.
 
@@ -96,11 +96,11 @@ Owner: husln
 
 By: n0mercy
 
-GitHub: https://github.com/anujin6969
+GitHub: https://github.com/n0merc
 
 install
 
-git clone https://github.com/anujin6969/HUBADEF.git
+git clone https://github.com/n0merc/HUBADEF.git
 cd HUBADEF
 pip install -r requirements.txt
 python3 hubadef.py
